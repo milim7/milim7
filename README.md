@@ -7,7 +7,7 @@ Olá, me chamo Mirian Lima, apaixonada por <em>tecnologia, inteligência artific
 <a href="https://www.linkedin.com/in/mirian-lima-917074243" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
 </div>
 
---------
+-------------------------------
 
 # 🚀 Linguagens e Tecnologias
 
@@ -20,6 +20,7 @@ Olá, me chamo Mirian Lima, apaixonada por <em>tecnologia, inteligência artific
 <img align="left" alt="dbeaver" title="dbeaver" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 
 <br/>
 <br/>
@@ -27,6 +28,5 @@ Olá, me chamo Mirian Lima, apaixonada por <em>tecnologia, inteligência artific
 ---------------------------
 
 <p>
-
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milim7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
